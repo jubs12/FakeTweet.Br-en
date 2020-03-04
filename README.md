@@ -1,32 +1,9 @@
-# FakeTweet.Br
-Um Corpus de Notícias Falsas do Twitter e Verificação
-Automática de Rumores em Língua Portuguesa
+# FakeTweet.Br-en
 
-Devido ao aumento no alcance do compartilhamento de notícias falsas, abordagens automatizadas para classificar o que é verdade ou mentira
-se tornam urgentes, principalmente para notícias curtas veiculadas em redes sociais como o Twitter. Uma pesquisa recente mostrou que 66% dos
-Brasileiros que responderam a pesquisa usam as redes sociais como fonte de notícias. Este artigo propõe um corpus de referência de Fake News em língua
-portuguesa, coletado do Twitter. Avaliamos diferentes algoritmos de machine learning para essa tarefa e os resultados mostraram que a tarefa de
-verificação de rumores do Twitter, em português, suplantou os resultados relacionados em língua inglesa
+Automated English Translation of FakeTweet.Br, an open corpus of Twitter fake news and automatic verification of rumors in Portuguese.
 
-Estatística do Corpus FakeTweet.Br em português
-Corpus FakeTweet br
+Files FakeTweetBr.csv, BFakeTweetBr-Test.csv were translated using Google Cloud Translate API.
 
-Conjunto de Treinamento 
----------------------
-Falsa 194 
-Verdadeira 85 
---------------------
-279
+The original README description for the master branch of this repository follows below
 
-Qtd Assuntos diferentes - 24 
-
-
-Conjunto de Treinamento 
----------------------
-Falsa 12 
-Verdadeira 8 
---------------------
-20
-
-Qtd Assuntos diferentes - 7 
- 
+https://github.com/prc992/FakeTweet.Br/blob/master/README.md
