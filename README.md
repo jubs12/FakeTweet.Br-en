@@ -7,3 +7,5 @@ Files FakeTweetBr.csv, BFakeTweetBr-Test.csv were translated using Google Cloud 
 The original README description for the master branch of this repository follows below
 
 https://github.com/prc992/FakeTweet.Br/blob/master/README.md
+
+## TO DO: Correct answer_start indexes
